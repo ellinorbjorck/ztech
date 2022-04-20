@@ -348,6 +348,7 @@
 "Assets/Codigos/LogicaTendero.cs"
 "Assets/product1.cs"
 "Assets/register.cs"
+"Assets/SceneViewHighlighter/SceneViewOutline.cs"
 -langversion:9.0
 
 /deterministic
