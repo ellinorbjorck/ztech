@@ -1,10 +1,15 @@
 ﻿<Properties StartupConfiguration="{236236F0-9459-2086-53A0-7A6565250214}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/register.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/task1.cs">
     <Files>
-      <File FileName="Assets/product1.cs" Line="23" Column="41" />
-      <File FileName="../../../Documents/test/Assets/register.cs" Line="31" Column="4" />
-      <File FileName="Assets/Codigos/LogicaTendero.cs" Line="43" Column="42" />
-      <File FileName="Assets/register.cs" Line="19" Column="10" />
+      <File FileName="Assets/sc.cs" Line="19" Column="1" />
+      <File FileName="Assets/product1.cs" />
+      <File FileName="../../../Documents/test/Assets/register.cs" />
+      <File FileName="Assets/Codigos/LogicaTendero.cs" Line="70" Column="12" />
+      <File FileName="Assets/register.cs" Line="9" Column="1" />
+      <File FileName="Assets/supplier_box.cs" Line="22" Column="9" />
+      <File FileName="Assets/gameplay.cs" Line="25" Column="1" />
+      <File FileName="Assets/task1.cs" Line="21" Column="29" />
+      <File FileName="Assets/drag_function.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e84a371c-8cae-4e72-93bc-7f0f57be8fff" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="469fa3ca-5a92-448a-a808-65fdd75c05fa" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
