@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class drag_function : MonoBehaviour
 {
-    public Camera cam;
+  
     private Vector3 screenPoint;
     private Vector3 offset;
 
